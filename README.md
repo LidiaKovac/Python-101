@@ -12,6 +12,6 @@ This is the repository for the very basics of Python. If I like it, I will likel
 
 ### Update
 
-The more I work on completing this tutorial the more I see many many applications for the things I am learning, even outside of creating games. I am understanding classes better and I think I am going to implement them waaaaay more into my every-day coding. 
+For now, I am loving the language! I want to dive deeper, but I don't really know where to start. I made a rock paper scissor program that runs inside the terminal, but I want something more. 
 
 Do you have feedback? Do not hesitate! Coding is all about always learning something new!
