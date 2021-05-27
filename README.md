@@ -14,4 +14,8 @@ This is the repository for the very basics of Python. If I like it, I will likel
 
 For now, I am loving the language! I want to dive deeper, but I don't really know where to start. I made a rock paper scissor program that runs inside the terminal, but I want something more. 
 
+### Update #2: 
+
+I added another mini-project, a program to send windows notification every 45 minutes. I had a lot of fun doing this!
+
 Do you have feedback? Do not hesitate! Coding is all about always learning something new!
